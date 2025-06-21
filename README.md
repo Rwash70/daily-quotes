@@ -27,3 +27,11 @@ JavaScript:
 -Array of Quotes: A list of quotes stored in an array for random selection
 -Random Quote Function: Randomly selects a quote and display it.
 -Event Listener: Adds functionality to the "Get Quote" button to display a new quote when clicked.
+
+# Live Demo:
+
+https://radiant-griffin-0dfc61.netlify.app
+
+# Repository:
+
+https://github.com/Rwash70/daily-quotes.git
