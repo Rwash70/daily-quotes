@@ -32,6 +32,8 @@ JavaScript:
 
 https://radiant-griffin-0dfc61.netlify.app
 
+[! Daily Quotes Screenshopt](images/DailyQuotes.png)
+
 # Repository:
 
 https://github.com/Rwash70/daily-quotes.git
